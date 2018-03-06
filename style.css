@@ -1,6 +1,6 @@
 body {
   background-color: #111111;
-  background-image: url("https://cdn.glitch.com/b16586a4-a7dc-4d54-bb21-2b895eb1f215%2Fstars.png?1519852098794");
+  background-image: url("/cdn/stars.png");
   margin: 0px;
   user-select: none;
 }
